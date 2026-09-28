@@ -1,0 +1,6 @@
+{
+  "name": "FitBuddy - AI Workout & Nutrition Planner",
+  "description": "AI-powered personalized 7-day fitness plans, dynamic feedback refinement loops, and targeted nutrition tips with SQLite persistence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
